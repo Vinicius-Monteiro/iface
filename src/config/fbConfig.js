@@ -3,13 +3,7 @@ import "firebase/firestore";
 import "firebase/auth";
 
 var firebaseConfig = {
-	apiKey: "AIzaSyDhmfybsogcrNFQqS9bidJEt7CKB1jVy9c",
-	authDomain: "iface-project.firebaseapp.com",
-	databaseURL: "https://iface-project.firebaseio.com",
-	projectId: "iface-project",
-	storageBucket: "",
-	messagingSenderId: "751458774556",
-	appId: "1:751458774556:web:bb262337ec139f5f"
+	// Omiti as configurações por razão do github ser público
 };
 
 // Initialize Firebase
